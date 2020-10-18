@@ -1,0 +1,1 @@
+The project analyze movie dataset using list of list, dictionary, filtering list, removing duplicate records, extracting non duplicate list, finding movies filtered on language / rating.
